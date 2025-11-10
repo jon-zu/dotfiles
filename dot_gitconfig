@@ -1,0 +1,7 @@
+[user]
+	name = jonas-zu
+	email = jonas-zunker@web.de
+[init]
+	defaultBranch = main
+[core]
+	autocrlf = input
